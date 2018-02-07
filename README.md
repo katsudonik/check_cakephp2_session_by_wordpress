@@ -1,0 +1,1 @@
+# check_cakephp2_session_by_wordpress
